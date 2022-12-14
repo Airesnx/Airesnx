@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Airesnx
-- 👀 I’m interested in any random stuff...
-- 🌱 I’m currently learning on how to code/program...
-- 💙 I'm new to coding/programming...
 
+🥀 𝒊 𝒍𝒊𝒌𝒆 𝒓𝒐𝒔𝒆𝒔 𝒃𝒆𝒔𝒕. 𝑩𝒖𝒕 𝒕𝒉𝒆𝒚 𝒃𝒍𝒐𝒐𝒎 𝒊𝒏 𝒂𝒍𝒍 𝒇𝒐𝒖𝒓 𝒔𝒆𝒂𝒔𝒐𝒏𝒔.
+ 𝑰 𝒘𝒐𝒏𝒅𝒆𝒓 𝒊𝒇 𝒑𝒆𝒐𝒑𝒍𝒆 𝒘𝒉𝒐 𝒍𝒊𝒌𝒆𝒔 𝒓𝒐𝒔𝒆𝒔 𝒃𝒆𝒔𝒕 𝒉𝒂𝒗𝒆 𝒕𝒐 𝒅𝒊𝒆 𝒇𝒐𝒖𝒓 𝒕𝒊𝒎𝒆𝒔 𝒐𝒗𝒆𝒓 𝒂𝒈𝒂𝒊𝒏. 
 
-<!---
-Airesnx/Airesnx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+𝒊 𝒍𝒐𝒗𝒆 𝒓𝒐𝒔𝒆𝒔
